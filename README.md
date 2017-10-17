@@ -1,2 +1,2 @@
 # go_tcp_chatroom
-go tcp char room
+go tcp chat room
